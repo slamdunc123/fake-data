@@ -5,6 +5,12 @@
         "title": "hello"
       }
     ],
+    "values": [
+      {
+        "id": 1,
+        "value": 10
+      }
+    ],
     "profile": {
       "name": "typicode"
     }
